@@ -25,21 +25,44 @@
 }
 
 /* nnaro custom */
-h1 {
+.dark h1 {
 	color: #e16d76;
+	border-bottom: solid 1px #e16d76;
 }
-h2 {
+.dark h2 {
 	color: #d19a66;
+	border-bottom: solid 1px #d19a66;
 }
-h3 {
+.dark h3 {
 	color: #cec167;
 }
-h4 {
+.dark h4 {
 	color: #98c379;
 }
-h5 {
+.dark h5 {
 	color: #58b6c2;
 }
-h6 {
+.dark h6 {
+	color: #62afef;
+}
+
+.light h1 {
+	color: #e45749;
+	border-bottom: solid 1px #e45749;
+}
+.light h2 {
+	color: #b76b02;
+	border-bottom: solid 1px #b76b02;
+}
+.light h3 {
+	color: #c18302;
+}
+.light h4 {
+	color: #50a150;
+}
+.light h5 {
+	color: #0d97b3;
+}
+.light h6 {
 	color: #62afef;
 }
